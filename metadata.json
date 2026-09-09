@@ -1,0 +1,6 @@
+{
+  "name": "Canyon Racer",
+  "description": "A high-speed 3D off-road land rover race through high canyon walls and hilly ridge tracks across lunar and martian terrains with realistic sped-up physics, checkpoints, and AI opponent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
